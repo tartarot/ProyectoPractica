@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/ProyectoPractica/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/ProyectoPractica/static/js/main.aa07895d.chunk.js",
-    "main.js.map": "/ProyectoPractica/static/js/main.aa07895d.chunk.js.map",
+    "main.js": "/ProyectoPractica/static/js/main.f8eba99a.chunk.js",
+    "main.js.map": "/ProyectoPractica/static/js/main.f8eba99a.chunk.js.map",
     "runtime-main.js": "/ProyectoPractica/static/js/runtime-main.e3a1795a.js",
     "runtime-main.js.map": "/ProyectoPractica/static/js/runtime-main.e3a1795a.js.map",
-    "static/js/2.d54ad377.chunk.js": "/ProyectoPractica/static/js/2.d54ad377.chunk.js",
-    "static/js/2.d54ad377.chunk.js.map": "/ProyectoPractica/static/js/2.d54ad377.chunk.js.map",
+    "static/js/2.8d6c0e2b.chunk.js": "/ProyectoPractica/static/js/2.8d6c0e2b.chunk.js",
+    "static/js/2.8d6c0e2b.chunk.js.map": "/ProyectoPractica/static/js/2.8d6c0e2b.chunk.js.map",
     "index.html": "/ProyectoPractica/index.html",
-    "precache-manifest.cfa245bfbd589417df0e8091878c32e9.js": "/ProyectoPractica/precache-manifest.cfa245bfbd589417df0e8091878c32e9.js",
+    "precache-manifest.1392da70c72a421e9892428fc3f0e00e.js": "/ProyectoPractica/precache-manifest.1392da70c72a421e9892428fc3f0e00e.js",
     "service-worker.js": "/ProyectoPractica/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/ProyectoPractica/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.d54ad377.chunk.js.LICENSE.txt": "/ProyectoPractica/static/js/2.d54ad377.chunk.js.LICENSE.txt"
+    "static/js/2.8d6c0e2b.chunk.js.LICENSE.txt": "/ProyectoPractica/static/js/2.8d6c0e2b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e3a1795a.js",
-    "static/js/2.d54ad377.chunk.js",
+    "static/js/2.8d6c0e2b.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.aa07895d.chunk.js"
+    "static/js/main.f8eba99a.chunk.js"
   ]
 }
